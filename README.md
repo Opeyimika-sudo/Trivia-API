@@ -8,6 +8,10 @@ The application allows you manage questions (display, add, delete and search) an
 
 The backend code adheres to the PEP 8 style guide and follows common best practices.
 
+### Demo
+
+![Demo](./demo.gif)
+
 ## Getting Started
 
 This project makes use of **ReactJS** and **Node** for the frontend and **Flask**, **SQLAlchemy** and **PostgreSQL** for the backend. To be able to run this project locally, all aforementioned packages/libraries must be installed first.
